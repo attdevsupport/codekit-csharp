@@ -1,0 +1,41 @@
+Searching 134 files for "function"
+
+/Users/michellepai/Documents/Sentaca/csharp-codekit/codekit/SMS/SMS.cs:
+   32  
+   33          /// <summary>
+   34:         /// This function makes API call to get SMS
+   35          /// </summary>
+   36          /// <param name="RegistrationID">RegistrationID</param>
+   ..
+   50  
+   51          /// <summary>
+   52:         /// This function makes API call to get SMS DeliveryStatus
+   53          /// </summary>
+   54          /// <param name="messageID">messageID</param>
+   ..
+   68  
+   69          /// <summary>
+   70:         /// This function makes API call to send SMS
+   71          /// </summary>
+   72          /// <param name="data">JSON string</param>
+
+/Users/michellepai/Documents/Sentaca/csharp-codekit/codekit/SPEECH/Speech.cs:
+   33  
+   34          /// <summary>
+   35:         /// This function makes API call to get SMS
+   36          /// </summary>
+   37          public RecognitionObj.RootObject speechToText(string parXspeechContext,
+   ..
+   69  
+   70          /// <summary>
+   71:         /// This function makes API call to get SMS
+   72          /// </summary>
+   73          public RecognitionObj.RootObject speechToTextCustom(string mimeData,
+   ..
+  102  
+  103          /// <summary>
+  104:         /// This function makes API call to send SMS
+  105          /// </summary>
+  106          public byte[] textToSpeech(string data)
+
+6 matches across 2 files

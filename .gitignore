@@ -1,0 +1,16 @@
+# ASP.NET 
+**/bin
+**/Bin
+**/obj
+**/Properties
+*.csproj
+.DS_Store
+*.Debug.config
+Default.aspx
+Web.config
+*.publishproj
+*.aspx
+*.csproj.user
+*.sln
+*.v12.suo
+
